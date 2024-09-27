@@ -31,3 +31,4 @@ The WhisperX transcript files (.csv) should be saved in the `data/whisperX` fold
 To run the training, you need to run the following command:
 
 `bash scripts/pipeline.sh`
+this is owned by Bo
